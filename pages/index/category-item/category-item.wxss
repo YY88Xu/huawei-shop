@@ -1,0 +1,46 @@
+.item-header{
+  height: 70rpx;
+  line-height: 70rpx;
+  display: flex;
+  justify-content: center;
+}
+.item-horizon{
+  height: 1px;
+  background-color: #e5e5e5;
+  width: 60rpx;
+  position: relative;
+  top: 35rpx;
+}
+.left{
+  right: 13rpx;
+}
+.right{
+  left: 13rpx;
+}
+.content-wrap{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.content-item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  margin-bottom: 30rpx;
+}
+/* https://www.jb51.net/css/708614.html */
+/* https://www.jianshu.com/p/2f4a175ab1b4 */
+.content-wrap view:last-child:nth-child(3n+1){
+  margin-right: 66.67%;
+}
+.content-wrap view:last-child:nth-child(3n+2){
+  margin-right: 33.33%;
+}
+.content-pic{
+  height: 150rpx;
+  width: 150rpx;
+}

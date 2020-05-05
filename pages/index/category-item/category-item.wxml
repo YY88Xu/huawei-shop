@@ -1,0 +1,78 @@
+<!--pages/index/category-item/category-item.wxml-->
+<template name="category-item">
+  <view class="item-header">
+    <text class="item-horizon left"></text>
+    <text>{{title}}</text>
+    <text class="item-horizon right"></text>
+  </view>
+  <view class="content-wrap">
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+        <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+    <view class="content-item">
+      <image src="/images/pic1.png" class="content-pic"></image>
+      <text class="content-title">荣耀V30</text>
+    </view>
+  </view>
+</template>
